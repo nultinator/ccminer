@@ -6,8 +6,8 @@
 // miner nonce "cursor" unique for each thread
 #define EQNONCE_OFFSET 30 /* 27:34 */
 
-#define WK 9
-#define WN 200
+#define WK 7
+#define WN 192
 //#define CONFIG_MODE_1 9, 1248, 12, 640, packer_cantor /* eqcuda.hpp */
 
 extern "C" {
